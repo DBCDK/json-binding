@@ -19,7 +19,7 @@
  * along with DataIO.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package dk.dbc.dataio.jsonb;
+package dk.dbc.jsonb;
 
 public class JSONBException extends Exception {
     private static final long serialVersionUID = -6429142830690189808L;
