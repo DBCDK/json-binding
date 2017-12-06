@@ -30,6 +30,14 @@
 
   <name>json-binding</name>
 
+  <distributionManagement>
+    <repository>
+      <id>mavenrepo.dbc.dk</id>
+      <name>mavenrepo</name>
+      <url>http://mavenrepo.dbc.dk/content/repositories/snapshots</url>
+    </repository>
+  </distributionManagement>
+
   <properties>
     <hamcrest.version>1.3</hamcrest.version>
     <jackson.version>2.9.2</jackson.version>
